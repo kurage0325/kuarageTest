@@ -1,6 +1,0 @@
-test
-<<<<<<< HEAD
-master Brunch
-=======
-testBrunch
->>>>>>> testBranch/master
